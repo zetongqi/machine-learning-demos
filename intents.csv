@@ -1112,3 +1112,22 @@ borrowed amount given can used by me for what reasons?,faq.borrow_use
 borrowed amount given can used by me for which purposes?,faq.borrow_use
 borrowed money can be used for which of the purposes?,faq.borrow_use
 borrow money given can used by me for what reasons?,faq.borrow_use
+Open the pod bay door,request_open_door
+Open the door,request_open_door
+I need to get in the spaceship,request_open_door
+can you open the pod bay door please,request_open_door
+I need to get in to the pod bay,request_open_door
+Can you help me open the pod bay door?,request_open_door
+How can I get the pod bay door to open,request_open_door
+where do I get into the spaceship,request_open_door
+can I get in the pod bay through the emgergency airlock?,request_open_door
+why won't you let me in through the pod bay door,request_open_door
+let me in the spaceship please,request_open_door
+can you let me in the spaceship?,request_open_door
+I need to get in the spaceship now,request_open_door
+open the pod bay door now!,request_open_door
+"Open the pod bay door, HAL",request_open_door
+open the pod bay door and let me in the spaceship now!,request_open_door
+I don't have my space helmat on please open the pod bay door!,request_open_door
+I don't have my space helmat on please let me in the spaceship!,request_open_door
+I don't have my space helmat on please open the pod bay door and let me in the spaceship!,request_open_door
