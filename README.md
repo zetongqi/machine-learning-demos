@@ -12,3 +12,5 @@ Intent classification chatbot
 Chatbot
 
 BERT model
+
+Universal sentence encoder
