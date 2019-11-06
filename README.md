@@ -14,3 +14,7 @@ Chatbot
 BERT model
 
 Universal sentence encoder
+
+Word Embeddings
+
+PCA
