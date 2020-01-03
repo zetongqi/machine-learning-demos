@@ -20,5 +20,6 @@ Word Embeddings
 PCA
 
 Neural Style Transfer
+![Image description](https://github.com/zetongqi/machine-learning-demos/blob/master/neural_style_transfer_pics/1.jpg)
 
 ![Alt Text](https://github.com/zetongqi/machine-learning-demos/blob/master/neural_style_transfer_pics/neural_style_transfer.gif)
