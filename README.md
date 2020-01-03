@@ -23,6 +23,5 @@ Neural Style Transfer
 
 ![Image description](https://github.com/zetongqi/machine-learning-demos/blob/master/neural_style_transfer_pics/1.jpg)
 +
-![Image description](https://github.com/zetongqi/machine-learning-demos/blob/master/neural_style_transfer_pics/2.jpg)
-=
-[Alt Text](https://github.com/zetongqi/machine-learning-demos/blob/master/neural_style_transfer_pics/neural_style_transfer.gif)
+![Image description](https://github.com/zetongqi/machine-learning-demos/blob/master/neural_style_transfer_pics/2.jpg)=
+![Alt Text](https://github.com/zetongqi/machine-learning-demos/blob/master/neural_style_transfer_pics/neural_style_transfer.gif)
