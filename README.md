@@ -21,4 +21,4 @@ PCA
 
 Neural Style Transfer
 
-![Alt Text](https://github.com/zetongqi/machine-learning-demos/blob/master/neural_style_transfer.gif)
+![Alt Text](https://github.com/zetongqi/machine-learning-demos/blob/master/neural_style_transfer_pics/neural_style_transfer.gif)
