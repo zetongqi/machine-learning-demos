@@ -18,3 +18,5 @@ Universal sentence encoder
 Word Embeddings
 
 PCA
+
+Neural Style Transfer
