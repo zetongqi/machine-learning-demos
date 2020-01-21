@@ -1,5 +1,5 @@
 # machine-learning-demos
-demos of hands-on machine learning
+demos of practical machine learning
 
 online learning with Boston housing dataset
 
