@@ -29,3 +29,5 @@ Neural Style Transfer
 Optimization with TensorFlow
 
 Deep Neural Networks
+
+Optimizations: Momentum, RMSProp and Adam
