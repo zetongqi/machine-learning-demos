@@ -30,4 +30,4 @@ Optimization with TensorFlow
 
 Deep Neural Networks
 
-Optimizations: Momentum, RMSProp and Adam
+Optimization Algorithms: Momentum, RMSProp and Adam
