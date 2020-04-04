@@ -33,3 +33,5 @@ Deep Neural Networks
 Optimization Algorithms: Momentum, RMSProp and Adam
 
 Kernel SVM
+
+EM Factor Analysis
