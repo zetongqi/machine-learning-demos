@@ -33,5 +33,5 @@ Deep Neural Networks
 Optimization Algorithms: Momentum, RMSProp and Adam
 
 Kernel SVM
-
+![Gaussian Kernel](https://github.com/zetongqi/machine-learning-demos/blob/master/support_vectors/gaussian_kernel.png)
 EM Factor Analysis
