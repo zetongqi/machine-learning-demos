@@ -34,4 +34,7 @@ Optimization Algorithms: Momentum, RMSProp and Adam
 
 Kernel SVM
 ![Gaussian Kernel](https://github.com/zetongqi/machine-learning-demos/blob/master/support_vectors/gaussian_kernel.png)
+![Gaussian Kernel](https://github.com/zetongqi/machine-learning-demos/blob/master/support_vectors/gaussian_kernel_circle.png)
+![Gaussian Kernel](https://github.com/zetongqi/machine-learning-demos/blob/master/support_vectors/polynomial_kernel.png)
+
 EM Factor Analysis
