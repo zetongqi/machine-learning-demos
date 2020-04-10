@@ -39,3 +39,5 @@ Kernel SVM
 EM Factor Analysis
 
 Gaussian Mixture Models
+
+Random Fourier Features SVM
