@@ -41,3 +41,5 @@ EM Factor Analysis
 Gaussian Mixture Models
 
 Random Fourier Features SVM
+
+Support Vector Regression
