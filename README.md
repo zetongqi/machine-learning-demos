@@ -43,3 +43,5 @@ Gaussian Mixture Models
 Random Fourier Features SVM
 
 Support Vector Regression
+
+Kernel PCA
