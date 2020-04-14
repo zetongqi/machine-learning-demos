@@ -45,3 +45,5 @@ Random Fourier Features SVM
 Support Vector Regression
 
 Kernel PCA
+
+<img src="https://github.com/zetongqi/machine-learning-demos/blob/master/kernel_pca_pics/swiss_roll.png" width="250"><img src="https://github.com/zetongqi/machine-learning-demos/blob/master/kernel_pca_pics/rbf_kernel_pca.png" width="250"><img src="https://github.com/zetongqi/machine-learning-demos/blob/master/kernel_pca_pics/linear_pca.png" width="250">
