@@ -51,3 +51,5 @@ Kernel PCA
 Random Fourier Features Support Vector Regression
 
 Random Binning Features Support Vector Machine
+
+Kernelized Ridge Regression
