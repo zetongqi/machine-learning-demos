@@ -55,3 +55,5 @@ Random Binning Features Support Vector Machine
 Kernelized Ridge Regression
 
 Independent Component Analysis
+
+Learning with Local Invariances on RKHS
