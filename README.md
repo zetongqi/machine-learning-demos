@@ -61,3 +61,5 @@ Learning with Local Invariances on RKHS
 Tangent Distance for Invariance Robust SVM
 
 Metropolis Hastings Algorithm
+
+Sparse Autoencoders
