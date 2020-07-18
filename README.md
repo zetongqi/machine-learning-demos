@@ -63,3 +63,5 @@ Tangent Distance for Invariance Robust SVM
 Metropolis Hastings Algorithm
 
 Sparse Autoencoders
+
+Variational Autoencoder
