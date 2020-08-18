@@ -65,3 +65,7 @@ Metropolis Hastings Algorithm
 Sparse Autoencoders
 
 Variational Autoencoder
+
+K-Armed Bandit
+
+Image Captioning
